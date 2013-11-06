@@ -3,10 +3,10 @@ Javascript Course 2013
 
 University of Helsinki Computer Science Department
 
-Team Strömberg
----------------
+Team CnB Red
+------------
 
-Juuso Strömberg
+Juuso Strömberg (Contact Person)
 
 Nina Liljeblad
 
