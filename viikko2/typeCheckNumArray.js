@@ -8,9 +8,7 @@ function typeCheckIntArray(array){
 
 	// Loops through array and check that each value is a num
 	for(int i = 0;i<array.length){
-		if(typeof array[i] === "number"){
-			continue;
-		}else{
+		if(!typeCheckNum(array[i])){
 			return false;
 		}
 	}
