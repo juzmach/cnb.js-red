@@ -17,3 +17,5 @@ Tomi Virtanen
 Toni Könnilä
 
 Joni Hauhia
+
+[Dokumentti täällä](https://github.com/Juzmach/cnb.js-red/wiki)
